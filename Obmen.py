@@ -1,4 +1,3 @@
-from http.client import responses
 from tkinter.messagebox import showerror
 from tkinter import ttk
 import requests
@@ -47,7 +46,6 @@ cur = {
     "CNY": "Китайский юань",
     "KZT": "Казахский тенге",
     "UZS": "Узбекский сум",
-    "CHF": "Швейцарский франк",
     "AED": "Дирхам ОАЭ",
     "CAD": "Канадский доллар",
     "USD": "Американский доллар"
